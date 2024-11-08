@@ -6,22 +6,26 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+-  💬 Ask me about 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Saikat Bhattacharya</h1>
 <h3 align="center">An Aspiring SDE from India</h3>
-
+- 🌱 I’m currently learning : Distributed systems and advanced system design principles
+- 👯 I’m looking to collaborate on : MERN, GenAI and RAG
 - 📫 How to reach me **bhattacharyasaikat88@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saikat bhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saikat bhattacharya" height="30" width="40" /></a>
+
+<h3 align="left">Profiles:</h3>
+<p align="left">
 <a href="https://www.hackerrank.com/@bhattacharyasai1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@bhattacharyasai1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bhattacharyasaikat88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhattacharyasaikat88" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/bhattacharyasaikat88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bhattacharyasaikat88" height="30" width="40" /></a>
