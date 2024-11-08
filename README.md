@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Saikat Bhattacharya</h1>
-<h3 align="center">An Aspiring SDE from India</h3>
-- 🌱 I’m currently learning : Distributed systems and advanced system design principles
-- 👯 I’m looking to collaborate on : MERN, GenAI and RAG
-- 📫 How to reach me **bhattacharyasaikat88@gmail.com**
+<h3 align="center">An Aspiring SDE from India</h3> <br>
+- 🌱 I’m currently learning : Distributed systems and advanced system design principles <br>
+- 👯 I’m looking to collaborate on : MERN, GenAI and RAG <br>
+- 📫 How to reach me **bhattacharyasaikat88@gmail.com**<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
