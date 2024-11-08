@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/saikat bhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saikat bhattacharya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saikat-bhattacharya-a52434263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saikat bhattacharya" height="30" width="40" /></a>
 
 <h3 align="left">Profiles:</h3>
 <p align="left">
